@@ -9,9 +9,7 @@ export default function NotFound() {
       <h1>Error 404</h1>
       <h2>Page Not Found</h2>
       <p>
-        <a href="https://site.glimpsy.lol" target="_blank">
-          Back to home page
-        </a>{" "}
+        <a href="/">Back to home Page</A>
       </p>
     </main>
   );
